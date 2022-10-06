@@ -1,6 +1,6 @@
 
 
-## SOUND CLASSIFICATION PROBLEM
+## Sound Classification Problem
 
 - Classifying the cry of a baby into 4 classes namely:  Hunger , Tiredness, Discomfort , Belly pain
 
