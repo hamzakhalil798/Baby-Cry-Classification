@@ -7,4 +7,4 @@
 - You can apply this to your own custom Dataset for any kind of Sound Classification
 
 
-**Will be Uploading Detailed tutorial within some days**
+**Will be Uploading Detailed tutorial within few days**
