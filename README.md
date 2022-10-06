@@ -14,7 +14,7 @@
 
 ## Dataset Used
 
-- I used a public Dataset and then collected some of my own data aswell and combined it for the project.
+- I used a public Dataset and then collected some of my own data as well and combined it for the project.
 -  Link to Dataset :    https://github.com/gveres/donateacry-corpus
 
 
