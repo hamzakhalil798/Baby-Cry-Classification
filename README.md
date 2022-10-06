@@ -2,6 +2,9 @@
 
 ## Sound Classification Problem
 
+
+- This is a Machine Learning Approach towards Sound Classification 
+
 - Classifying the cry of a baby into 4 classes namely:  Hunger , Tiredness, Discomfort , Belly pain
 
 - You can apply this to your own custom Dataset for any kind of Sound Classification
