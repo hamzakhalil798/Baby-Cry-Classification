@@ -2,10 +2,9 @@
 
 ## Sound Classification Problem
 
+- Classifying the cry of a baby into 4 classes namely:  Hunger , Tiredness, Discomfort , Belly pain
 
 - This is a Machine Learning Approach towards Sound Classification 
-
-- Classifying the cry of a baby into 4 classes namely:  Hunger , Tiredness, Discomfort , Belly pain
 
 - You can apply this to your own custom Dataset for any kind of Sound Classification
 
@@ -20,6 +19,14 @@
 - I used a public Dataset and then collected some of my own data as well and combined it for the project.
 -  Link to Dataset :    https://github.com/gveres/donateacry-corpus
 
+
+## Steps
+
+1. Feature Extraction
+2. Creating Dataframe
+3. Applying Test/Train Splits
+4. Fitting Model on Training Data
+5. Results (Model Score and Confusion Matrix)
 
 
 
