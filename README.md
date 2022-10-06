@@ -6,6 +6,10 @@
 
 - You can apply this to your own custom Dataset for any kind of Sound Classification
 
+## Things You'll Need :
+- Dataset
+- MetaData file for Dataset
+
 
 **Dataset Used**
 
