@@ -30,5 +30,5 @@
 
 
 
-**Follow my medium article for tutoral**
+**Follow my medium article for tutorial**
 - https://medium.com/@khalilhamza798/baby-cry-classification-using-machine-learning-af857cd7d41a
